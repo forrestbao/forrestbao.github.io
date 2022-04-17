@@ -1,5 +1,7 @@
 I am in the middle of porting my home page from [here](https://sites.google.com/site/forrestbao/) to Github. Stay tuned. 
 
+{:toc}
+
 # Who am I
 * **Daytime:** Assistant Professor, Computer Science, Iowa State University (birth place of the[ first digital electronic computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer)), USA
 * **Nighttime**: AI and hardware entrepreneur. 
@@ -32,10 +34,15 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 * National Science Foundation (NSF), Award ID 1616216/1821828, Collaborative Research: Productivity Prediction of Microbial Cell Factories using Machine Learning and Knowledge Engineering, PI, $232k, 2016-2019.
 * National Science Foundation (NSF), Award ID 1817089, CSR: Small: Collaborative Research: Tuning Extreme-Scale Storage System Through Deep Learning, PI, $230k, 2018-2021.
 
-# Media Reports/Interviews
+## Media Reports/Interviews
 * A Neural Net That Diagnoses Epilepsy, [MIT Technology Review website](http://www.technologyreview.com/blog/arxiv/23465/)
 * New Diagnostic Tool for Automatic Epilepsy Diagnosis, epilepsyUSA (the official magazine of Epilepsy Foundation of America), 2009, No. 5, pp.9-10
 * [Brianwave from Bhutan](http://www.thelancet.com/journals/laneur/article/PIIS1474-4422%2815%2900311-7/fulltext?rss=yes), Lancet Neurology, vol. 14, no.12, p.1154-1155, December 2015
+
+# Teaching
+* [NLP](https://github.com/forrestbao/nlp-class)
+* [Machine Learning](https://github.com/forrestbao/mlclass)
+* [Python](https://github.com/forrestbao/PythonClass)
 
 # 關於潤
 [See here ](https://twitter.com/forrestbao/status/1494952614152355842)
