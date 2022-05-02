@@ -1,7 +1,5 @@
 I am in the middle of porting my home page from [here](https://sites.google.com/site/forrestbao/) to Github. Stay tuned. 
 
-{:toc}
-
 # Who am I
 * **Daytime:** Assistant Professor, Computer Science, Iowa State University (birth place of the[ first digital electronic computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer)), USA
 * **Nighttime**: AI and hardware entrepreneur. 
@@ -46,3 +44,18 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 
 # 關於潤
 [See here ](https://twitter.com/forrestbao/status/1494952614152355842)
+
+# Test
+
+Artificial Intelligence (AI): Knowledge Representation (KR), Natural Language Processing (NLP)
+
+<div class="dropdown">
+  <u>Dropdown</u>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+    <a href="#">News: GM is buying Cruise.</a>
+  </div>
+  is a problem. 
+</div>
