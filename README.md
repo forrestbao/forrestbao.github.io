@@ -47,15 +47,4 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 
 # Test
 
-Artificial Intelligence (AI): Knowledge Representation (KR), Natural Language Processing (NLP)
-
-<div class="dropdown">
-  <u>Dropdown</u>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-    <a href="#">News: GM is buying Cruise.</a>
-  </div>
-  is a problem. 
-</div>
+[Test relative link](./test.md)
