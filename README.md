@@ -18,11 +18,44 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 * [inactive] Computational Neuroscience and Biology
 * [inactive] Wireless/Computer Networking 
 
-## Recent publications
+## Seleted  publications
 
+### On EDA
+* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design, Automation and Test (2022 VLSI-DAT)
+* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs, ACM/IEEE 58th Design Automation Conference (DAC 2021)
+
+### On AI 
 * Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022, accepted, See you in Seattle! 
-* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, "BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs,'' ACM/IEEE 58th Design Automation Conference (DAC 2021)
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
+* Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
+* Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019
+* Cen Chen, Minghui Qiu, Yinfei Yang, Jun Zhou, Jun Huang, Xiaolong Li, and Forrest Sheng Bao, Multi-Domain Gated CNN for Review Helpfulness Prediction, WWW 2019
+* Dong Dai, Forrest S. Bao, et al., Vectorizing Disk Blocks for Efficient Storage Systems via Deep Learning, Parallel Computing, vol. 82, pp. 75-90, 2019
+* Forrest S. Bao, et al., Accelerating Boolean Satisfiability (SAT) Solving by Common Subclause Elimination, Artificial Intelligence Review, vol. 44, no. 3, pp. 439-453, 2018
+* Cen Chen, Yinfei Yang, Jun Zhou, Xiaolong Li, Forrest S. Bao, Cross-Domain Review Helpfulness Prediction Based on Convolutional Neural Networks with Auxiliary Domain Discriminators, NAACL 2018, New Orleans, LA (poster)
+* Yinfei Yang, Cen Chen, Forrest S. Bao, Aspect Extraction from Product Reviews Using Category Hierarchy Information, EACL 2017, Valencia, Spain
+* Yinfei Yang, Forrest S. Bao, and Ani Nenkova, Detecting (Un)Important Content for Single-Document News Summarization, EACL 2017, Valencia, Spain
+* Yinfei Yang, Cen Chen, Forrest S. Bao, Aspect-Based Helpfulness Prediction for Online Product Reviews, IEEE ICTAI 2016, San Jose, CA.
+* Yinfei Yang, Yaowei Yan, Minghui Qiu, Forrest S. Bao, Semantic Analysis and Helpfulness Prediction of Text for Online Product Reviews, ACL-2015, Beijing, China
+* Yaowei Yan, Chris Gutierrez, Jeriah Jn-Charles, Forrest S. Bao, Yuanlin Zhang, Accelerating SAT Solving by Common Subclause Elimination, AAAI-15, 2015, Austin, TX
+* Forrest S. Bao, and Yuanlin Zhang, A Survey of Tree Convex Sets Test, Computational Intelligence, vol. 28, no. 3, pp. 358--372, August 2012
+* Forrest S. Bao, et al., Temporally Expressive Planning Based on Answer Set Programming with Constraints, AAAI-12, Toronto, On
+* Shiqi Zhang, Forrest S. Bao, Mohan Sridharan, Combining Probabilistic Planning and Logic Programming on Mobile Robots, AAAI-12, Toronto, ON
+* Forrest S. Bao, et al., Medical Treatment Conflict Resolving in Answer Set Programming, AAAI-11, San Francisco, CA
+
+### On Signal Processing and Computational Neuroscience
+* Duo Chen, Shuren Wang, Forrest S. Bao, Epileptic Focus Localization Using Discrete Wavelet Transform Based on Interictal Intracranial EEG, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 5, May 2017
+* Arno Klein, Satrajit Gosh, Forrest S. Bao, et al., Mindboggling morphometry of human brains, PLoS Computational Biology, 13(2): e1005350, 2017
+* Stephen G. Wu, Yuxuan Wang, Wu Jiang, Tolutola Oyetunde, Ruilian Yao, Kazuyuki Shimizu, Yinjie J. Tang, and Forrest S. Bao, Rapid Prediction of Bacterial Heterotrophic Fluxomics using Machine Learning and Constraint Programming, PLoS Computational Biology, 12(4): e1004838, Apr. 19, 2016
+* Duo Chen, Jiasong Wang, Ming Yan, Forrest S. Bao, A Complex Prime Numerical Representation of Amino Acids for Protein Function Comparison, Journal of Computational Biology, vol. 23, no. 8, pp. 669-677, 2016
+* Forrest S. Bao, et al., Automated extraction of nested sulcus features from human brain MRI data, IEEE EMBC 2012, San Diego, CA
+* Forrest S. Bao, et al., Automated Epilepsy Diagnosis Using Interictal Scalp EEG, IEEE EMBC 2009, Minneapolis, MN
+* Forrest S. Bao, et al., A New Approach to Automated Epileptic Diagnosis Using EEG and Probabilistic Neural Network, IEEE ICTAI 2008, Dayton, OH
+
+### On Bioinformatics
+* Forrest S. Bao, et al., Fast Phased Small RNA Cycle Counting Algorithms, IEEE BIBE 2010, Philadelphia, PA
+* Xiao-Peng Qi, Forrest S. Bao and Zhixin Xie, Small RNA Deep Sequencing Reveals Role for Arabidopsis thaliana RNA-dependent RNA Polymerases in Viral siRNA Biogenesis, PLoS One, 4(3): e4971, Mar. 24, 2009
+
 
 ## Selected Services
 Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), 
