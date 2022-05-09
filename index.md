@@ -1,4 +1,10 @@
+---
+layout: default
+title: Home
+---
+
 I am in the middle of porting my home page from [here](https://sites.google.com/site/forrestbao/) to Github. Stay tuned. 
+[Job openings in my lab](https://twitter.com/forrestbao/status/1489359990506897408)
 
 # Who am I
 * **Daytime:** Assistant Professor, Computer Science, Iowa State University (birth place of the[ first digital electronic computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer)), USA
@@ -10,12 +16,11 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 
 # Research 
 
-[Job openings](https://twitter.com/forrestbao/status/1489359990506897408)
-
 ## Interests 
 * Artificial Intelligence (AI): Knowledge Representation (KR), Natural Language Processing (NLP)
 * Computer Aided Design (CAD) / Electronic Design Automation (EDA): Hardware description languages (HDLs) and AI-based auto-placement and auto-routing
-* [inactive] Computational Neuroscience and Biology
+* Bioinformatics 
+* [inactive] Computational Neuroscience and Medical Signal/Image Processing
 * [inactive] Wireless/Computer Networking 
 
 ## Seleted  publications
@@ -24,7 +29,7 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 * Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design, Automation and Test (2022 VLSI-DAT)
 * Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs, ACM/IEEE 58th Design Automation Conference (DAC 2021)
 
-### On AI 
+### On AI/NLP
 * Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022, accepted, See you in Seattle! 
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
@@ -43,7 +48,7 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 * Shiqi Zhang, Forrest S. Bao, Mohan Sridharan, Combining Probabilistic Planning and Logic Programming on Mobile Robots, AAAI-12, Toronto, ON
 * Forrest S. Bao, et al., Medical Treatment Conflict Resolving in Answer Set Programming, AAAI-11, San Francisco, CA
 
-### On Signal Processing and Computational Neuroscience
+### On Medical Signal/Image Processing and Computational Neuroscience
 * Duo Chen, Shuren Wang, Forrest S. Bao, Epileptic Focus Localization Using Discrete Wavelet Transform Based on Interictal Intracranial EEG, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 5, May 2017
 * Arno Klein, Satrajit Gosh, Forrest S. Bao, et al., Mindboggling morphometry of human brains, PLoS Computational Biology, 13(2): e1005350, 2017
 * Stephen G. Wu, Yuxuan Wang, Wu Jiang, Tolutola Oyetunde, Ruilian Yao, Kazuyuki Shimizu, Yinjie J. Tang, and Forrest S. Bao, Rapid Prediction of Bacterial Heterotrophic Fluxomics using Machine Learning and Constraint Programming, PLoS Computational Biology, 12(4): e1004838, Apr. 19, 2016
@@ -58,7 +63,7 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 
 
 ## Selected Services
-Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), 
+Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), COLING (2020-) 
 
 ## Research grants 
 My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcglobal.fund/), and [RisingSun Solar](https://news.las.iastate.edu/2021/12/14/iowa-state-researcher-develops-ai-technology-to-optimize-solar-installations/). 
@@ -78,6 +83,4 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 # 關於潤
 [See here ](https://twitter.com/forrestbao/status/1494952614152355842)
 
-# Test
 
-[Test relative link](./test.md)
