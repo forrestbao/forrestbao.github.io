@@ -1,1 +1,17 @@
-theme: jekyll-theme-primer
+
+
+theme: minima
+#theme: jekyll-theme-primer
+#theme: jekyll-theme-minimal
+#remote_theme: pages-themes/primer
+plugins:
+  - jekyll-relative-links
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+relative_links:     
+  enabled:     true
+  collections: false
+
+# social links
+twitter_username: forrestbao # DO NOT include the @ character, or else the build will fail!
+github_username:  forrestbao # DO NOT include the @ character, or else the build will fail!
