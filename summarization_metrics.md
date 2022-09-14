@@ -37,3 +37,6 @@ In summarization evaluation/quality studies, the second type of datasets always 
 
 # Supervised approach is hard 
 Because a summarization evaluation dataset (TAC2010, RealSumm, Newsroom) is usually very small, say 100 samples, it is prone to overfitting to train a model using human ratings as targets/labels on such a dataset. Instead, an unsupervised approach, like ROUGE, BLEU or BERTScore, or a weak/self/semi-surpervised approach, like SueNes or BLUERT, is preferred. 
+
+# Test area
+$$ a \times b $$

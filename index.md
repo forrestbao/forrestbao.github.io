@@ -17,10 +17,16 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 # Research 
 
 ## Interests 
-* Artificial Intelligence (AI): Knowledge Representation (KR), Natural Language Processing (NLP)
-* Computer Aided Design (CAD) / Electronic Design Automation (EDA): Hardware description languages (HDLs) and AI-based auto-placement and auto-routing
-* Bioinformatics 
-* [inactive] Computational Neuroscience and Medical Signal/Image Processing
+* Artificial Intelligence (AI): 
+  * Applied machine learning (ML) 
+  * Natural Language Processing (NLP) 
+    * Review analysis (ACL 2015, EACL 2017, NAACL 2018, WWW 2019, CIKM 2019)
+    * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022)
+* Computer Aided Design (CAD) / Electronic Design Automation (EDA): 
+  * Hardware description languages (HDLs): DAC 2021
+  * AI-based auto-placement and auto-routing: VLSI-DAT 2022
+* Bioinformatics
+* Computational Neuroscience and Medical Signal/Image Processing
 * [inactive] Wireless/Computer Networking 
 
 ## Seleted  publications
@@ -31,7 +37,7 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 
 ### On AI/NLP
 * Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment, COLING 2022, See you in Korea! 
-* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022
+* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
 * Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019
