@@ -15,7 +15,7 @@ Recently, I started working on summarization metrics, or the metrics for text ge
   * reference-based: $f(\text{reference summary}, \text{system/generated summary})$, short as $f(\text{ref}, \text{sys})$. 
   * reference-free: $f(\text{document}, \text{system/generated summary})$, short as $f(\text{doc}, \text{sys})$. 
 * We have two papers so far on reference-free approaches: 
-  * Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment, COLING 2022
+  * Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://openreview.net/pdf?id=BAuigajYY57), COLING 2022
   * Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [SueNes: A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022
 
 # Datasets
