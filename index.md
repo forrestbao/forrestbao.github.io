@@ -36,8 +36,8 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 * Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs, ACM/IEEE 58th Design Automation Conference (DAC 2021)
 
 ### On AI/NLP
-* Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment, COLING 2022, See you in Korea! 
-* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
+* Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://openreview.net/pdf?id=BAuigajYY57), COLING 2022, See you in Korea! 
+* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
 * Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019
