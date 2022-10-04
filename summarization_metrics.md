@@ -5,7 +5,11 @@ title: Summarization metrics
 
 # Research: Summarization metrics
 
-Recently, I started working on summarization metrics, or the metrics for text generation (natural language generation, NLG), including summaarization, simplification, and translation, at large. 
+The Transformer architecture invented by Google in 2017 has triggered a boom of text generation (natural language generation, NLG), including summarization, simplification, and translation. 
+A consequent problem is how to judge the quality of generated text or a generator (summarizer, translator, etc.). Therefore, we are now seeing a boom of NLG metrics. 
+For example, ACL 2022 has about 10 papers on NLG metrics. 
+I feel fortunate for being part of the trend. 
+My effort so far has been on summarization metrics. 
 
 ## [View this page with properly rendered math and diagrams in Github](https://github.com/forrestbao/forrestbao.github.io/blob/main/summarization_metrics.md)
 
@@ -25,7 +29,7 @@ Recently, I started working on summarization metrics, or the metrics for text ge
 
 ## Background: Summarization vs. Summarization evaluation/metrics
 
-They sounds similar but they differ hugely. 
+They sound similar but they differ hugely. 
 
 * Summarization: 
   - By: a **summarizer**, also called a **system**
@@ -78,7 +82,7 @@ Depending on the 2nd input of summary evaluation, there are two branches:
   - Mathematically, $f(\text{document}, \text{system/generated summary})$, short as $f(\text{doc}, \text{sys})$. 
 
 ## System-level vs. Summary-level evaluation 
-To be continue
+To be continued
 
 ## Datasets
 There are two kinds of datasets associated with summarization research, 
@@ -126,5 +130,3 @@ In summarization evaluation/quality studies, the second type of datasets always 
 ## Supervised approach is hard 
 Because a summarization evaluation dataset (TAC2010, RealSumm, Newsroom) is usually very small, say 100 samples, it is prone to overfitting to train a model using human ratings as targets/labels on such a dataset. Instead, an unsupervised approach, like ROUGE, BLEU or BERTScore, or a weak/self/semi-surpervised approach, like SueNes or BLUERT, is preferred. 
 
-# Test area
-$$ a \times b $$
