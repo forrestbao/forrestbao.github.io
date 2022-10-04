@@ -130,3 +130,10 @@ In summarization evaluation/quality studies, the second type of datasets always 
 ## Supervised approach is hard 
 Because a summarization evaluation dataset (TAC2010, RealSumm, Newsroom) is usually very small, say 100 samples, it is prone to overfitting to train a model using human ratings as targets/labels on such a dataset. Instead, an unsupervised approach, like ROUGE, BLEU or BERTScore, or a weak/self/semi-surpervised approach, like SueNes or BLUERT, is preferred. 
 
+## Papers to read
+### ACL 2022
+* [Spurious Correlations in Reference-Free Evaluation of Text Generation](https://aclanthology.org/2022.acl-long.102.pdf)
+* [Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation](https://aclanthology.org/2022.acl-long.394.pdf)
+* [FrugalScore: Learning Cheaper, Lighter and Faster Evaluation Metrics for Automatic Text Generation](https://aclanthology.org/2022.acl-long.93.pdf)
+* [RoMe: A Robust Metric for Evaluating Natural Language Generation](https://aclanthology.org/2022.acl-long.387.pdf)
+* [Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons](https://aclanthology.org/2022.acl-long.600.pdf)
