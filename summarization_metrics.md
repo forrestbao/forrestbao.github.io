@@ -137,3 +137,6 @@ Because a summarization evaluation dataset (TAC2010, RealSumm, Newsroom) is usua
 * [FrugalScore: Learning Cheaper, Lighter and Faster Evaluation Metrics for Automatic Text Generation](https://aclanthology.org/2022.acl-long.93.pdf)
 * [RoMe: A Robust Metric for Evaluating Natural Language Generation](https://aclanthology.org/2022.acl-long.387.pdf)
 * [Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons](https://aclanthology.org/2022.acl-long.600.pdf)
+* [UniTE: Unified Translation Evaluation](https://aclanthology.org/2022.acl-long.558.pdf)
+* [Benchmarking Answer Verification Methods for Question Answering-Based Summarization Evaluation Metrics, Findings](https://aclanthology.org/2022.findings-acl.296.pdf)
+* [Just Rank: Rethinking Evaluation with Word and Sentence Similarities, weakly related](https://aclanthology.org/2022.acl-long.419.pdf)
