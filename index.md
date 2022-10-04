@@ -24,7 +24,7 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
     * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022)
 * Computer Aided Design (CAD) / Electronic Design Automation (EDA): 
   * Hardware description languages (HDLs): DAC 2021
-  * AI-based auto-placement and auto-routing: VLSI-DAT 2022
+  * [AI-based auto-placement and auto-routing](circuit_routing.md): VLSI-DAT 2022
 * Bioinformatics
 * Computational Neuroscience and Medical Signal/Image Processing
 * [inactive] Wireless/Computer Networking 
@@ -32,8 +32,8 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 ## Seleted  publications
 
 ### On EDA
-* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design, Automation and Test (2022 VLSI-DAT)
-* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs, ACM/IEEE 58th Design Automation Conference (DAC 2021)
+* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, [Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design](./publications/Circuit_Routing_Using_Monte_Carlo_Tree_Search_and_Deep_Reinforcement_Learning_VLSI_DAT_2022.pdf), Automation and Test (2022 VLSI-DAT)
+* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, [BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs](./publications/BHDL_DAC_2021.pdf), ACM/IEEE 58th Design Automation Conference (DAC 2021)
 
 ### On AI/NLP
 * Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://openreview.net/pdf?id=BAuigajYY57), COLING 2022, See you in Korea! 
