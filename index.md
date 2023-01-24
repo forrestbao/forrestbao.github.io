@@ -17,21 +17,27 @@ I am a co-founder of two seed-stage startups of my students. Previously I had tw
 # Research 
 
 ## Interests 
-* Artificial Intelligence (AI): Knowledge Representation (KR), Natural Language Processing (NLP)
-* Computer Aided Design (CAD) / Electronic Design Automation (EDA): Hardware description languages (HDLs) and AI-based auto-placement and auto-routing
-* Bioinformatics 
-* [inactive] Computational Neuroscience and Medical Signal/Image Processing
+* Artificial Intelligence (AI): 
+  * Applied machine learning (ML) 
+  * Natural Language Processing (NLP) 
+    * Review analysis (ACL 2015, EACL 2017, NAACL 2018, WWW 2019, CIKM 2019)
+    * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022)
+* Computer Aided Design (CAD) / Electronic Design Automation (EDA): 
+  * Hardware description languages (HDLs): DAC 2021
+  * [AI-based auto-placement and auto-routing](circuit_routing.md): VLSI-DAT 2022
+* Bioinformatics
+* Computational Neuroscience and Medical Signal/Image Processing
 * [inactive] Wireless/Computer Networking 
 
 ## Seleted  publications
 
 ### On EDA
-* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design, Automation and Test (2022 VLSI-DAT)
-* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs, ACM/IEEE 58th Design Automation Conference (DAC 2021)
+* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, [Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning, The 2022 International Symposium on VLSI Design](./publications/Circuit_Routing_Using_Monte_Carlo_Tree_Search_and_Deep_Reinforcement_Learning_VLSI_DAT_2022.pdf), Automation and Test (2022 VLSI-DAT)
+* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, [BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs](./publications/BHDL_DAC_2021.pdf), ACM/IEEE 58th Design Automation Conference (DAC 2021)
 
 ### On AI/NLP
-* Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment, COLING 2022, See you in Korea! 
-* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://openreview.net/forum?id=rfGxaxhWr-5), NAACL 2022
+* Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://openreview.net/pdf?id=BAuigajYY57), COLING 2022, See you in Korea! 
+* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
 * Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019

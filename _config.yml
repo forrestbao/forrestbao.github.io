@@ -6,12 +6,15 @@ theme: minima
 #remote_theme: pages-themes/primer
 plugins:
   - jekyll-relative-links
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 relative_links:     
   enabled:     true
   collections: false
 
+header_pages:
+  - blog.html
+  
 # social links
 twitter_username: forrestbao # DO NOT include the @ character, or else the build will fail!
 github_username:  forrestbao # DO NOT include the @ character, or else the build will fail!
