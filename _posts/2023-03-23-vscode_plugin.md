@@ -23,7 +23,8 @@ So where is the variable `%python.command.python.analysis.restartLanguageServer.
 
 It's in another file [`package.nls.json`](https://github.com/microsoft/vscode-python/blob/main/package.nls.json) like this: 
 ```
-Restart Language Server
+"python.command.python.analysis.restartLanguageServer.title": "Restart Language Server",
+
 ```
  I assume it is for the purpose of making multi-language or i18n easier. The titles can be in any language depending on the use configuration. 
 
