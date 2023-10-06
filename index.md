@@ -9,7 +9,7 @@ I am in the middle of porting my home page from [here](https://sites.google.com/
 # Who am I
 * **Daytime:** Assistant Professor, Computer Science, Iowa State University (birth place of the[ first digital electronic computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer)), USA
 * **Nighttime**: AI and hardware entrepreneur. 
-I am a co-founder of two seed-stage startups of my students. Previously I had two failed hardware startups, one on augmented reality and the other on an object-tracking camera. I also sometimes build hobby PCBs. 
+I am a co-founder of two seed-stage startups of my students, [Funix.io](http://Funix.io) and [Codepod.io](http://Codepod.io). I also sometimes build hobby PCBs. 
 * I have a Chinese name: 鮑盛 and I emigrated to the US from China at 21. 
 * I got my PhD in Computer Science with a minor in Eletrical Engineering from Texas Tech University. 
 * Oh, I am on [Twitter](https://twitter.com/home) and [YouTube (in Chinese)](https://www.youtube.com/channel/UCSWYdVAxYCjEo4OPi3COk-A). 
@@ -82,6 +82,7 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 * A Neural Net That Diagnoses Epilepsy, [MIT Technology Review website](http://www.technologyreview.com/blog/arxiv/23465/)
 * New Diagnostic Tool for Automatic Epilepsy Diagnosis, epilepsyUSA (the official magazine of Epilepsy Foundation of America), 2009, No. 5, pp.9-10
 * [Brianwave from Bhutan](http://www.thelancet.com/journals/laneur/article/PIIS1474-4422%2815%2900311-7/fulltext?rss=yes), Lancet Neurology, vol. 14, no.12, p.1154-1155, December 2015
+* [As China Doubles Down on Lockdowns, Some Chinese Seek an Exit](https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html), New York Times, May 20, 2022
 
 # Teaching
 * [NLP](https://github.com/forrestbao/nlp-class)
@@ -90,5 +91,7 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 
 # 關於潤
 [See here ](https://forrestbao.github.io/Run/)
+
+As of Oct. 6, 2023, I am only offering "潤" service to those who want to do research with me or helping Funix.io
 
 
