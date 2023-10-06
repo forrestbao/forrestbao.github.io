@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The unscablable Jupyter - Part I: scrolling up and down"
-date: 2023-08-11  
+date: 2023-10-06
 author: Forrest Sheng Bao/鮑盛
 ---
 
@@ -11,7 +11,7 @@ The No.1 issue I have with Jupyter is that two semantically related pieces of co
 
 [Here is an example](https://github.com/huggingface/peft/blob/main/examples/conditional_generation/peft_lora_seq2seq.ipynb) from HuggingFace's `peft` library. 
 
-![PEFT notebook](./2023-10-06-jupyter-scrolling_assets/2023-10-06_jupyter_scrolling.png)
+![PEFT notebook](/blog_assets/2023-10-06_jupyter_scrolling.png)
 
 The global variables `text_column` and `label_column` are defined at the top of the notebook, but they are used nearly 70 lines later. When I saw their use, I had to scroll up to find out what they are. When I am done getting their meaning, I had to scroll down to continue reading the code.
 
@@ -23,7 +23,7 @@ When I code in Jupyter, I spend a lot of time scrolling up and down. And there s
 However, with [Codepod.io](Codepod.io) this can be solved. Codepod allows you to place code blocks on a canvas just like in Powerpoint or Miro. The screenshot below shows how the same code can be organized nicely in Codepod. [Click here](https://app.codepod.io/repo/v9zybr3z5crinrim5iv9) to see the "pod" live! 
 
 
-![PEFT codepod](./2023-10-06-jupyter-scrolling_assets/2023-10-06_codepod_peft.png)
+![PEFT codepod](/blog_assets/2023-10-06_codepod_peft.png)
 
 # Related work (to be expanded)
 
