@@ -21,15 +21,14 @@ I am a co-founder of two seed-stage startups of my students, [Funix.io](http://F
   * Applied machine learning (ML) 
   * Natural Language Processing (NLP) 
     * Review analysis (ACL 2015, EACL 2017, NAACL 2018, WWW 2019, CIKM 2019)
-    * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022)
+    * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022, EMNLP 2023)
 * Computer Aided Design (CAD) / Electronic Design Automation (EDA): 
   * Hardware description languages (HDLs): DAC 2021
   * [AI-based auto-placement and auto-routing](circuit_routing.md): VLSI-DAT 2022, DATE 2023
-* Bioinformatics
-* Computational Neuroscience and Medical Signal/Image Processing
+* AI in medicine and biology, Computational Neuroscience, Bioinformatics
 * [inactive] Wireless/Computer Networking 
 
-## Seleted  publications
+## Selected publications on different areas
 
 ### On EDA
 * Youbiao He, Hebi Li, Ge Luo, Forrest Sheng Bao, Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and Monte Carlo Tree Search, DATE 2023 
@@ -37,8 +36,9 @@ I am a co-founder of two seed-stage startups of my students, [Funix.io](http://F
 * Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, [BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs](./publications/BHDL_DAC_2021.pdf), ACM/IEEE 58th Design Automation Conference (DAC 2021)
 
 ### On AI/NLP
-* Ge Luo, Hebi Li, Youbiao He and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://openreview.net/pdf?id=BAuigajYY57), COLING 2022
-* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
+* Forrest Sheng Bao, Ruixuan Tu, Ge Luo, Yinfei Yang, Hebi Li, Minghui Qiu, Youbiao He, and Cen Chen, DocAsRef: A Pilot Empirical Study on Repurposing Reference-based Summary Quality Metrics as Reference-free Metrics, Findings of EMNLP 2023
+* Ge Luo, Hebi Li, Youbiao He, and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://aclanthology.org/2022.coling-1.515/), COLING 2022
+* Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, and Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
 * Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019
@@ -56,19 +56,17 @@ I am a co-founder of two seed-stage startups of my students, [Funix.io](http://F
 * Shiqi Zhang, Forrest S. Bao, Mohan Sridharan, Combining Probabilistic Planning and Logic Programming on Mobile Robots, AAAI-12, Toronto, ON
 * Forrest S. Bao, et al., Medical Treatment Conflict Resolving in Answer Set Programming, AAAI-11, San Francisco, CA
 
-### On Medical Signal/Image Processing and Computational Neuroscience
+### On AI in medicine and biology, Computational Neuroscience, Bioinformatics
+* Garrett W. Roell, Ashik Sathish, Ni Wan, Qianshun Cheng, Zhiyou Wen, Yinjie J. Tang, and Forrest S. Bao, [A comparative evaluation of machine learning algorithms for predicting syngas fermentation outcomes](https://www.sciencedirect.com/science/article/abs/pii/S1369703X22002479?via%3Dihub), Biochemical Engineering Journal, Volume 186, August 2022, 108578
 * Duo Chen, Shuren Wang, Forrest S. Bao, Epileptic Focus Localization Using Discrete Wavelet Transform Based on Interictal Intracranial EEG, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 5, May 2017
 * Arno Klein, Satrajit Gosh, Forrest S. Bao, et al., Mindboggling morphometry of human brains, PLoS Computational Biology, 13(2): e1005350, 2017
 * Stephen G. Wu, Yuxuan Wang, Wu Jiang, Tolutola Oyetunde, Ruilian Yao, Kazuyuki Shimizu, Yinjie J. Tang, and Forrest S. Bao, Rapid Prediction of Bacterial Heterotrophic Fluxomics using Machine Learning and Constraint Programming, PLoS Computational Biology, 12(4): e1004838, Apr. 19, 2016
 * Duo Chen, Jiasong Wang, Ming Yan, Forrest S. Bao, A Complex Prime Numerical Representation of Amino Acids for Protein Function Comparison, Journal of Computational Biology, vol. 23, no. 8, pp. 669-677, 2016
 * Forrest S. Bao, et al., Automated extraction of nested sulcus features from human brain MRI data, IEEE EMBC 2012, San Diego, CA
-* Forrest S. Bao, et al., Automated Epilepsy Diagnosis Using Interictal Scalp EEG, IEEE EMBC 2009, Minneapolis, MN
-* Forrest S. Bao, et al., A New Approach to Automated Epileptic Diagnosis Using EEG and Probabilistic Neural Network, IEEE ICTAI 2008, Dayton, OH
-
-### On Bioinformatics
 * Forrest S. Bao, et al., Fast Phased Small RNA Cycle Counting Algorithms, IEEE BIBE 2010, Philadelphia, PA
+* Forrest S. Bao, et al., Automated Epilepsy Diagnosis Using Interictal Scalp EEG, IEEE EMBC 2009, Minneapolis, MN
 * Xiao-Peng Qi, Forrest S. Bao and Zhixin Xie, Small RNA Deep Sequencing Reveals Role for Arabidopsis thaliana RNA-dependent RNA Polymerases in Viral siRNA Biogenesis, PLoS One, 4(3): e4971, Mar. 24, 2009
-
+* Forrest S. Bao, et al., A New Approach to Automated Epileptic Diagnosis Using EEG and Probabilistic Neural Network, IEEE ICTAI 2008, Dayton, OH
 
 ## Selected Services
 Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), COLING (2020-) 
