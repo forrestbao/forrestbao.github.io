@@ -23,12 +23,12 @@ from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM 
 
 # get an example dataset
-snli_test_split = load_dataset("snli", split="test") # 10k rows 
+a_dataset = load_dataset("snli", split="test") # 10k rows 
 
 # get an example model and its tokenizer 
 model_identifier = "facebook/nllb-200-distilled-600M"
-tokenizer = AutoTokenizer.from_pretrained(model_identifier, cache_dir=model_cache_dir)
-model = AutoModelForSeq2SeqLM.from_pretrained(model_identifier, cache_dir = model_cache_dir)
+tokenizer = AutoTokenizer.from_pretrained(model_identifier)
+model = AutoModelForSeq2SeqLM.from_pretrained(model_identifier)
 
 #%% 
 def unit_translate(examples: Dataset, rank: int): 
@@ -36,7 +36,7 @@ def unit_translate(examples: Dataset, rank: int):
         
     device = f"cuda:{rank}"
     
-    model.to(device)
+    model.to(device) # this sounds weird though. Why moving the model again and again along with every batch of data? 
     inputs = tokenizer(examples['hypothesis'], return_tensors="pt").to(device)
     
     outputs = model.generate(**inputs) # this is buggy for NLLB because BOS token is not set but it is enough to show the idea of mapping with rank
@@ -52,7 +52,7 @@ if __name__ == '__main__':
         
     set_start_method('spawn')
 
-    snli_translated = snli_test_split.map(
+    mapped_dataset = a_dataset.map(
         unit_translate, 
         with_rank=True,
         num_proc=torch.cuda.device_count(), # use all GPUs on the machine
