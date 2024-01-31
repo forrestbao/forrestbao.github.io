@@ -7,7 +7,7 @@ author: Forrest Sheng Bao/鮑盛
 
 I just spent 2 hours on following the official [example](https://huggingface.co/docs/datasets/main/en/process#multiprocessing) of HuggingFace's `datasets` library to do `dataset.Datasets.map()` with `rank` on multiple GPUs. It did not work as complained by many others on the Internet: [datasets issue #6186](https://github.com/huggingface/datasets/issues/6186), [datasets PR #6415](https://github.com/huggingface/datasets/pull/6415), and [datasets PR #6550](https://github.com/huggingface/datasets/pull/6550). Many wanted complete working code. 
 
-After digging information here and there from the discussions (especially PR 6550 which has been pending for 28 days as of the time of writing), I finally got it working. So allow me to write a complete example down here first. Hopefully it can help others before the official documents get updated. 
+After digging information here and there from the discussions (especially [this reply](https://github.com/huggingface/datasets/pull/6415#issuecomment-1872269530) in PR#6415), I finally got it working. So allow me to write a complete example down here first. Hopefully it can help others before the official documents get updated. 
 
 Known issues: 
 * The code does not work well inside a Jupyter notebook. I haven't figured out why. 
