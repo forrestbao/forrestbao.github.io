@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Forrest Sheng Bao/鮑盛
+# About me
 * I am currently a co-founder of a stealth AI startup in Silicon Valley. If you are building AI agents and not happy with its performance, especially on getting the right context, we can help. 
 * Between 2017 and 2024, I was an Assistant Professor of Computer Science at Iowa State University, where I got an NSF CAREER Award which was retracted due to my departure from my full-time pointment at academia. I remained as an affiliated assistant professor at the CS department. 
 * After academia, I took the position as the co-head of ML at Vectara, where I built the HHEM 2.x series hallucination detectors, the open source version of which has been downloaded by more than 5M times in a year on HuggingFace. 
