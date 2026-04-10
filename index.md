@@ -3,16 +3,14 @@ layout: default
 title: Home
 ---
 
-I am in the middle of porting my home page from [here](https://sites.google.com/site/forrestbao/) to Github. Stay tuned. 
-[Job openings in my lab](https://twitter.com/forrestbao/status/1489359990506897408)
-
-# Who am I
-* **Daytime:** Assistant Professor, Computer Science, Iowa State University (birth place of the[ first digital electronic computer](https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer)), USA
-* **Nighttime**: AI and hardware entrepreneur. 
-I am a co-founder of two seed-stage startups of my students, [Funix.io](http://Funix.io) and [Codepod.io](http://Codepod.io). I also sometimes build hobby PCBs. 
-* I have a Chinese name: 鮑盛 and I emigrated to the US from China at 21. 
+# Forrest Sheng Bao/鮑盛
+* I am currently a co-founder of a stealth AI startup in Silicon Valley. If you are building AI agents and not happy with its performance, especially on getting the right context, we can help. 
+* Between 2017 and 2024, I was an Assistant Professor of Computer Science at Iowa State University, where I got an NSF CAREER Award which was retracted due to my departure from my full-time pointment at academia. I remained as an affiliated assistant professor at the CS department. 
+* After academia, I took the position as the co-head of ML at Vectara, where I built the HHEM 2.x series hallucination detectors, the open source version of which has been downloaded by more than 5M times in a year on HuggingFace. 
 * I got my PhD in Computer Science with a minor in Eletrical Engineering from Texas Tech University. 
-* Oh, I am on [Twitter](https://twitter.com/home) and [YouTube (in Chinese)](https://www.youtube.com/channel/UCSWYdVAxYCjEo4OPi3COk-A). 
+* Feel free to follow me on [Twitter](https://twitter.com/home) and [LinkedIn](https://www.linkedin.com/in/forrestbao/). 
+
+![](unnamed.png)
 
 # Research 
 
@@ -21,24 +19,27 @@ I am a co-founder of two seed-stage startups of my students, [Funix.io](http://F
   * Applied machine learning (ML) 
   * Natural Language Processing (NLP) 
     * Review analysis (ACL 2015, EACL 2017, NAACL 2018, WWW 2019, CIKM 2019)
-    * NLG and NLG metrics, primarily on [summarization metrics](summarization_metrics.md) (EACL 2017, NAACL 2022, COLING 2022, EMNLP 2023)
+    * LLM evaluation (EACL 2017, NAACL 2022, COLING 2022, EMNLP 2023, EACL 2024, EMNLP 2024, NAACL 2025, EMNLP 2025)
 * Computer Aided Design (CAD) / Electronic Design Automation (EDA): 
   * Hardware description languages (HDLs): DAC 2021
   * [AI-based auto-placement and auto-routing](circuit_routing.md): VLSI-DAT 2022, DATE 2023
-* AI in medicine and biology, Computational Neuroscience, Bioinformatics
-* [inactive] Wireless/Computer Networking 
+* AI in Medicine and Biology
 
-## Selected publications on different areas
+## Select publications
 
-### On EDA
-* Youbiao He, Hebi Li, Ge Luo, Forrest Sheng Bao, Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and Monte Carlo Tree Search, DATE 2023 
-* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, [Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning](./publications/Circuit_Routing_Using_Monte_Carlo_Tree_Search_and_Deep_Reinforcement_Learning_VLSI_DAT_2022.pdf), The 2022 International Symposium on VLSI Design Automation and Test (2022 VLSI-DAT)
-* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, [BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs](./publications/BHDL_DAC_2021.pdf), ACM/IEEE 58th Design Automation Conference (DAC 2021)
-
-### On AI/NLP
+* Md Hasanur Rashid, Nathan R. Tallent, Forrest Sheng Bao, and Dong Dai, [CARAT: Client-Side Adaptive RPC and Cache Co-Tuning for Parallel File Systems](https://arxiv.org/abs/2602.22423), IPDPS 2026
+* Manveer Singh Tamber, Forrest Sheng Bao, Chenyu Xu, Ge Luo, Suleman Kazi, Minseok Bae, Miaoran Li, Ofer Mendelevitch, Renyi Qu, and Jimmy Lin, [Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards](https://aclanthology.org/2025.emnlp-industry.54/), EMNLP 2025 Industry Track
+* Forrest Sheng Bao, Miaoran Li, Renyi Qu, Ge Luo, Erana Wan, Yujia Tang, Weisi Fan, Manveer Singh Tamber, Suleman Kazi, Vivek Sourabh, Mike Qi, Ruixuan Tu, Chenyu Xu, Matthew Gonzales, Ofer Mendelevitch, and Amin Ahmad, [FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs](https://aclanthology.org/2025.naacl-short.38/), NAACL 2025
+* Renyi Qu, Ruixuan Tu, and Forrest Sheng Bao, [Is Semantic Chunking Worth the Computational Cost?](https://aclanthology.org/2025.findings-naacl.114/), Findings of NAACL 2025
+* Ge Luo, Weisi Fan, Miaoran Li, Guoruizhe Sun, Runlong Zhang, Chenyu Xu, and Forrest Sheng Bao, [SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization](https://aclanthology.org/2024.findings-emnlp.210/), Findings of EMNLP 2024
+* Ge Luo, Weisi Fan, Miaoran Li, Youbiao He, Yinfei Yang, and Forrest Sheng Bao, [On the Intractability to Synthesize Factual Inconsistencies in Summarization](https://aclanthology.org/2024.findings-eacl.69/), Findings of EACL 2024
+* Youbiao He, Hebi Li, Ge Luo, Forrest Sheng Bao, Two-stage PCB Routing Using Polygon-based Dynamic Partitioning and Monte Carlo Tree Search, DATE 2023
 * Forrest Sheng Bao, Ruixuan Tu, Ge Luo, Yinfei Yang, Hebi Li, Minghui Qiu, Youbiao He, and Cen Chen, DocAsRef: A Pilot Empirical Study on Repurposing Reference-based Summary Quality Metrics as Reference-free Metrics, Findings of EMNLP 2023
+* Garrett W. Roell, Ashik Sathish, Ni Wan, Qianshun Cheng, Zhiyou Wen, Yinjie J. Tang, and Forrest S. Bao, [A comparative evaluation of machine learning algorithms for predicting syngas fermentation outcomes](https://www.sciencedirect.com/science/article/abs/pii/S1369703X22002479?via%3Dihub), Biochemical Engineering Journal, Volume 186, August 2022, 108578
+* Youbiao He, Hebi Li, Jin Tian and Forrest Sheng Bao, [Circuit Routing Using Monte Carlo Tree Search and Deep Reinforcement Learning](./publications/Circuit_Routing_Using_Monte_Carlo_Tree_Search_and_Deep_Reinforcement_Learning_VLSI_DAT_2022.pdf), The 2022 International Symposium on VLSI Design Automation and Test (2022 VLSI-DAT)
 * Ge Luo, Hebi Li, Youbiao He, and Forrest Sheng Bao, [PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment](https://aclanthology.org/2022.coling-1.515/), COLING 2022
 * Forrest Sheng Bao, Ge Luo, Hebi Li, Cen Chen, Yinfei Yang, Youbiao He, and Minghui Qiu, [A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling](https://aclanthology.org/2022.naacl-main.175/), NAACL 2022 ([Trailer Video](https://www.youtube.com/watch?v=8ZOLdySNuMQ))
+* Hebi Li, Youbiao He, Qi Xiao, Jin Tian, and Forrest Sheng Bao, [BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs](./publications/BHDL_DAC_2021.pdf), ACM/IEEE 58th Design Automation Conference (DAC 2021)
 * Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, and Bing Xie, RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning, SC'20
 * Youbiao He, Dong Dai, and Forrest Sheng Bao, Modeling HPC Storage Performance Using Long Short-Term Memory Networks, HPCC 2019 (Best Paper Award)
 * Cen Chen, Chilin Fu, Xu Hu, Xiaolu Zhang, Jun Zhou, Xiaolong Li, and Forrest Sheng Bao, Reinforcement Learning for User Intent Prediction in Customer Service Bots, SIGIR 2019
@@ -48,33 +49,30 @@ I am a co-founder of two seed-stage startups of my students, [Funix.io](http://F
 * Cen Chen, Yinfei Yang, Jun Zhou, Xiaolong Li, Forrest S. Bao, Cross-Domain Review Helpfulness Prediction Based on Convolutional Neural Networks with Auxiliary Domain Discriminators, NAACL 2018, New Orleans, LA (poster)
 * Yinfei Yang, Cen Chen, Forrest S. Bao, Aspect Extraction from Product Reviews Using Category Hierarchy Information, EACL 2017, Valencia, Spain
 * Yinfei Yang, Forrest S. Bao, and Ani Nenkova, Detecting (Un)Important Content for Single-Document News Summarization, EACL 2017, Valencia, Spain
+* Duo Chen, Shuren Wang, Forrest S. Bao, Epileptic Focus Localization Using Discrete Wavelet Transform Based on Interictal Intracranial EEG, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 5, May 2017
+* Arno Klein, Satrajit Gosh, Forrest S. Bao, et al., Mindboggling morphometry of human brains, PLoS Computational Biology, 13(2): e1005350, 2017
 * Yinfei Yang, Cen Chen, Forrest S. Bao, Aspect-Based Helpfulness Prediction for Online Product Reviews, IEEE ICTAI 2016, San Jose, CA.
+* Stephen G. Wu, Yuxuan Wang, Wu Jiang, Tolutola Oyetunde, Ruilian Yao, Kazuyuki Shimizu, Yinjie J. Tang, and Forrest S. Bao, Rapid Prediction of Bacterial Heterotrophic Fluxomics using Machine Learning and Constraint Programming, PLoS Computational Biology, 12(4): e1004838, Apr. 19, 2016
+* Duo Chen, Jiasong Wang, Ming Yan, Forrest S. Bao, A Complex Prime Numerical Representation of Amino Acids for Protein Function Comparison, Journal of Computational Biology, vol. 23, no. 8, pp. 669-677, 2016
 * Yinfei Yang, Yaowei Yan, Minghui Qiu, Forrest S. Bao, Semantic Analysis and Helpfulness Prediction of Text for Online Product Reviews, ACL-2015, Beijing, China
 * Yaowei Yan, Chris Gutierrez, Jeriah Jn-Charles, Forrest S. Bao, Yuanlin Zhang, Accelerating SAT Solving by Common Subclause Elimination, AAAI-15, 2015, Austin, TX
 * Forrest S. Bao, and Yuanlin Zhang, A Survey of Tree Convex Sets Test, Computational Intelligence, vol. 28, no. 3, pp. 358--372, August 2012
 * Forrest S. Bao, et al., Temporally Expressive Planning Based on Answer Set Programming with Constraints, AAAI-12, Toronto, On
+* Forrest S. Bao, et al., Automated extraction of nested sulcus features from human brain MRI data, IEEE EMBC 2012, San Diego, CA
 * Shiqi Zhang, Forrest S. Bao, Mohan Sridharan, Combining Probabilistic Planning and Logic Programming on Mobile Robots, AAAI-12, Toronto, ON
 * Forrest S. Bao, et al., Medical Treatment Conflict Resolving in Answer Set Programming, AAAI-11, San Francisco, CA
-
-### On AI in medicine and biology, Computational Neuroscience, Bioinformatics
-* Garrett W. Roell, Ashik Sathish, Ni Wan, Qianshun Cheng, Zhiyou Wen, Yinjie J. Tang, and Forrest S. Bao, [A comparative evaluation of machine learning algorithms for predicting syngas fermentation outcomes](https://www.sciencedirect.com/science/article/abs/pii/S1369703X22002479?via%3Dihub), Biochemical Engineering Journal, Volume 186, August 2022, 108578
-* Duo Chen, Shuren Wang, Forrest S. Bao, Epileptic Focus Localization Using Discrete Wavelet Transform Based on Interictal Intracranial EEG, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 5, May 2017
-* Arno Klein, Satrajit Gosh, Forrest S. Bao, et al., Mindboggling morphometry of human brains, PLoS Computational Biology, 13(2): e1005350, 2017
-* Stephen G. Wu, Yuxuan Wang, Wu Jiang, Tolutola Oyetunde, Ruilian Yao, Kazuyuki Shimizu, Yinjie J. Tang, and Forrest S. Bao, Rapid Prediction of Bacterial Heterotrophic Fluxomics using Machine Learning and Constraint Programming, PLoS Computational Biology, 12(4): e1004838, Apr. 19, 2016
-* Duo Chen, Jiasong Wang, Ming Yan, Forrest S. Bao, A Complex Prime Numerical Representation of Amino Acids for Protein Function Comparison, Journal of Computational Biology, vol. 23, no. 8, pp. 669-677, 2016
-* Forrest S. Bao, et al., Automated extraction of nested sulcus features from human brain MRI data, IEEE EMBC 2012, San Diego, CA
 * Forrest S. Bao, et al., Fast Phased Small RNA Cycle Counting Algorithms, IEEE BIBE 2010, Philadelphia, PA
 * Forrest S. Bao, et al., Automated Epilepsy Diagnosis Using Interictal Scalp EEG, IEEE EMBC 2009, Minneapolis, MN
 * Xiao-Peng Qi, Forrest S. Bao and Zhixin Xie, Small RNA Deep Sequencing Reveals Role for Arabidopsis thaliana RNA-dependent RNA Polymerases in Viral siRNA Biogenesis, PLoS One, 4(3): e4971, Mar. 24, 2009
 * Forrest S. Bao, et al., A New Approach to Automated Epileptic Diagnosis Using EEG and Probabilistic Neural Network, IEEE ICTAI 2008, Dayton, OH
 
-## Selected Services
-Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), COLING (2020-) 
+<!-- ## Selected Services
+Technical Program Committee member: AAAI (2016-), IJCAI (2013-), NAACL (2018-), ACL (2019-), EMNLP (2018-), EACL (2019-), SIGKDD (2018-), COLING (2020-) -->
 
-## Research grants 
+<!-- ## Research grants 
 My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcglobal.fund/), and [RisingSun Solar](https://news.las.iastate.edu/2021/12/14/iowa-state-researcher-develops-ai-technology-to-optimize-solar-installations/). 
 * National Science Foundation (NSF), Award ID 1616216/1821828, Collaborative Research: Productivity Prediction of Microbial Cell Factories using Machine Learning and Knowledge Engineering, PI, $232k, 2016-2019.
-* National Science Foundation (NSF), Award ID 1817089, CSR: Small: Collaborative Research: Tuning Extreme-Scale Storage System Through Deep Learning, PI, $230k, 2018-2021.
+* National Science Foundation (NSF), Award ID 1817089, CSR: Small: Collaborative Research: Tuning Extreme-Scale Storage System Through Deep Learning, PI, $230k, 2018-2021. -->
 
 ## Media Reports/Interviews
 * A Neural Net That Diagnoses Epilepsy, [MIT Technology Review website](http://www.technologyreview.com/blog/arxiv/23465/)
@@ -82,14 +80,14 @@ My research has been funded by NSF, FAA, AFRL, Microsoft, [ARC](https://arcgloba
 * [Brianwave from Bhutan](http://www.thelancet.com/journals/laneur/article/PIIS1474-4422%2815%2900311-7/fulltext?rss=yes), Lancet Neurology, vol. 14, no.12, p.1154-1155, December 2015
 * [As China Doubles Down on Lockdowns, Some Chinese Seek an Exit](https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html), New York Times, May 20, 2022
 
-# Teaching
+<!-- # Teaching
 * [NLP](https://github.com/forrestbao/nlp-class)
 * [Machine Learning](https://github.com/forrestbao/mlclass)
-* [Python](https://github.com/forrestbao/PythonClass)
+* [Python](https://github.com/forrestbao/PythonClass) -->
 
-# 關於潤
+<!-- # 關於潤
 [See here ](https://forrestbao.github.io/Run/)
 
-As of Oct. 6, 2023, I am only offering "潤" service to those who want to do research with me or helping Funix.io
+As of Oct. 6, 2023, I am only offering "潤" service to those who want to do research with me or helping Funix.io -->
 
 
